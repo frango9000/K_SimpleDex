@@ -13,4 +13,10 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="default_text_types">Types</string>
+    <string name="default_text_pokemon_name">Pokemon Name</string>
+    <string name="default_descript_pokemon_avatar" />
+    <string name="id">id</string>
+    <string name="loading_complete">Loading Complete</string>
+    <string name="progres_text_format">Pokemons Loaded: %d / 807</string>
 </resources>

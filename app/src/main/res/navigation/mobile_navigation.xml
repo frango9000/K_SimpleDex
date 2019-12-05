@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="dev.kurama.k_simpledex.ui.home.HomeFragment"
+        android:name="dev.kurama.k_simpledex.ui.home.PokedexHomeFragment"
         android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_pokedexhome_list" />
 
     <fragment
         android:id="@+id/nav_gallery"

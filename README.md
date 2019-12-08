@@ -48,17 +48,17 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Screenshots 🎁
 
-<img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831817.png"  width=360  height=640> &nbsp
+<img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831817.png"  width=360  height=640>  _
 <img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831832.png"  width=360  height=640>
 
-<img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831836.png"  width=360  height=640> &nbsp
+<img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831836.png"  width=360  height=640> _
 <img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831838.png"  width=360  height=640>
 
-<img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831841.png"  width=360  height=640> &nbsp
+<img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831841.png"  width=360  height=640> _
 <img src="https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831847.png"  width=360  height=640>
 
 

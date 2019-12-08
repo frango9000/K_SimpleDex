@@ -18,5 +18,5 @@
     <string name="default_descript_pokemon_avatar" />
     <string name="id">id</string>
     <string name="loading_complete">Loading Complete</string>
-    <string name="progres_text_format">Pokemons Loaded: %d / 807</string>
+    <string name="progres_text_format">Pokemons Loaded: %d / %d</string>
 </resources>

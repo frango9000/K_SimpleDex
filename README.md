@@ -52,16 +52,16 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Screenshots 🎁
 
-![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831817.png=480x853)
+![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831817.png =480x853)
 
-![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831832.png=480x853)
+![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831832.png =480x853)
 
-![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831836.png=480x853)
+![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831836.png =480x853)
 
-![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831838.png=480x853)
+![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831838.png =480x853)
 
-![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831841.png=480x853)
+![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831841.png =480x853)
 
-![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831847.png=480x853)
+![s](https://raw.githubusercontent.com/fsancheztemprano/K_SimpleDex/master/screenshots/Screenshot_1575831847.png =480x853)
 
 ---
